@@ -1,3 +1,3 @@
 ## Watch the demo
 
-<video src="assets/video.mp4" controls="controls" style="max-width: 720px; width: 100%;" allowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" webkitallowfullscreen="true"></video>
+[![Watch the video](https://img.youtube.com/vi/I5laWlOkJpc/maxresdefault.jpg)](https://youtu.be/I5laWlOkJpc)
