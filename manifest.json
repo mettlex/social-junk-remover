@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Social Junk Remover",
+  "description": "A Chrome extension to remove junks from the social media websites.",
+  "version": "1.0.0",
+
+  "icons": {
+    "256": "assets/icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["*://*.facebook.com/*"]
+    }
+  ],
+
+  "host_permissions": ["*://*.facebook.com/*"]
+}
